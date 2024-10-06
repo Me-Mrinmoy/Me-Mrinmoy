@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Myself Mrinmoy Samanta
 
 - 🔭 I’m currently working on **Python Projects** and **AI Assistants**.
 - 🌱 I’m currently learning **Machine Learning** and **Cybersecurity**.
